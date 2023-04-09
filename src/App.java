@@ -1,3 +1,7 @@
+//this app solves Euler_14 Collatz sequence problem. It takes numbers ranging form 0 to 1000000 and validates which one has the largest sequence to reach value 1.
+//the sequence is initialized by dividing even numbers by 2; and multiplication of odd ones by 3 whilist adding 1 to the output.
+//the source number is also regarded as a part of a chain
+
 public class App {
 
 
